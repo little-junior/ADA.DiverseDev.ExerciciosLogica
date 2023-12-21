@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio1", "ADA.DiverseDev.ExerciciosLogica.Exercicio1\ADA.DiverseDev.ExerciciosLogica.Exercicio1.csproj", "{8E92F8E0-A64C-452C-B33D-BD6D544990F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio1", "ADA.DiverseDev.ExerciciosLogica.Exercicio1\ADA.DiverseDev.ExerciciosLogica.Exercicio1.csproj", "{8E92F8E0-A64C-452C-B33D-BD6D544990F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio2", "ADA.DiverseDev.ExerciciosLogica.Exercicio2\ADA.DiverseDev.ExerciciosLogica.Exercicio2.csproj", "{EB7BC0D7-AC64-43F9-8F23-FC2964F20525}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8E92F8E0-A64C-452C-B33D-BD6D544990F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E92F8E0-A64C-452C-B33D-BD6D544990F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E92F8E0-A64C-452C-B33D-BD6D544990F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB7BC0D7-AC64-43F9-8F23-FC2964F20525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7BC0D7-AC64-43F9-8F23-FC2964F20525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7BC0D7-AC64-43F9-8F23-FC2964F20525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7BC0D7-AC64-43F9-8F23-FC2964F20525}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
