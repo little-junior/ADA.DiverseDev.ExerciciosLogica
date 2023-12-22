@@ -5,13 +5,15 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio1", "ADA.DiverseDev.ExerciciosLogica.Exercicio1\ADA.DiverseDev.ExerciciosLogica.Exercicio1.csproj", "{8E92F8E0-A64C-452C-B33D-BD6D544990F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio2", "ADA.DiverseDev.ExerciciosLogica.Exercicio2\ADA.DiverseDev.ExerciciosLogica.Exercicio2.csproj", "{EB7BC0D7-AC64-43F9-8F23-FC2964F20525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio2", "ADA.DiverseDev.ExerciciosLogica.Exercicio2\ADA.DiverseDev.ExerciciosLogica.Exercicio2.csproj", "{EB7BC0D7-AC64-43F9-8F23-FC2964F20525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio3", "ADA.DiverseDev.ExerciciosLogica.Exercicio3\ADA.DiverseDev.ExerciciosLogica.Exercicio3.csproj", "{F98159DF-7866-4C3E-8DE9-EE873FE17279}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio3", "ADA.DiverseDev.ExerciciosLogica.Exercicio3\ADA.DiverseDev.ExerciciosLogica.Exercicio3.csproj", "{F98159DF-7866-4C3E-8DE9-EE873FE17279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio4", "ADA.DiverseDev.ExerciciosLogica.Exercicio4\ADA.DiverseDev.ExerciciosLogica.Exercicio4.csproj", "{AF74818C-3000-42FD-98E0-A3FA6F8AE64D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio4", "ADA.DiverseDev.ExerciciosLogica.Exercicio4\ADA.DiverseDev.ExerciciosLogica.Exercicio4.csproj", "{AF74818C-3000-42FD-98E0-A3FA6F8AE64D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio5", "ADA.DiverseDev.ExerciciosLogica.Exercicio5\ADA.DiverseDev.ExerciciosLogica.Exercicio5.csproj", "{51B6ABFF-68A0-4832-9C8F-46B012768F7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio5", "ADA.DiverseDev.ExerciciosLogica.Exercicio5\ADA.DiverseDev.ExerciciosLogica.Exercicio5.csproj", "{51B6ABFF-68A0-4832-9C8F-46B012768F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio7", "ADA.DiverseDev.ExerciciosLogica.Exercicio7\ADA.DiverseDev.ExerciciosLogica.Exercicio7.csproj", "{072BA4CA-0FC7-4643-941C-E4990DDC9D59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{51B6ABFF-68A0-4832-9C8F-46B012768F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51B6ABFF-68A0-4832-9C8F-46B012768F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51B6ABFF-68A0-4832-9C8F-46B012768F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072BA4CA-0FC7-4643-941C-E4990DDC9D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072BA4CA-0FC7-4643-941C-E4990DDC9D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072BA4CA-0FC7-4643-941C-E4990DDC9D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072BA4CA-0FC7-4643-941C-E4990DDC9D59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
