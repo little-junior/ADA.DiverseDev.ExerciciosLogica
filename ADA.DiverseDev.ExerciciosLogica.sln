@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio5", "ADA.DiverseDev.ExerciciosLogica.Exercicio5\ADA.DiverseDev.ExerciciosLogica.Exercicio5.csproj", "{51B6ABFF-68A0-4832-9C8F-46B012768F7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio7", "ADA.DiverseDev.ExerciciosLogica.Exercicio7\ADA.DiverseDev.ExerciciosLogica.Exercicio7.csproj", "{072BA4CA-0FC7-4643-941C-E4990DDC9D59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio7", "ADA.DiverseDev.ExerciciosLogica.Exercicio7\ADA.DiverseDev.ExerciciosLogica.Exercicio7.csproj", "{072BA4CA-0FC7-4643-941C-E4990DDC9D59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio8", "ADA.DiverseDev.ExerciciosLogica.Exercicio8\ADA.DiverseDev.ExerciciosLogica.Exercicio8.csproj", "{D599227D-9F85-4E26-B509-1BA820EE8704}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio8", "ADA.DiverseDev.ExerciciosLogica.Exercicio8\ADA.DiverseDev.ExerciciosLogica.Exercicio8.csproj", "{D599227D-9F85-4E26-B509-1BA820EE8704}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADA.DiverseDev.ExerciciosLogica.Exercicio9", "ADA.DiverseDev.ExerciciosLogica.Exercicio9\ADA.DiverseDev.ExerciciosLogica.Exercicio9.csproj", "{5D71F941-C52F-4C28-84F3-6F15CF4CDB16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D599227D-9F85-4E26-B509-1BA820EE8704}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D599227D-9F85-4E26-B509-1BA820EE8704}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D599227D-9F85-4E26-B509-1BA820EE8704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D71F941-C52F-4C28-84F3-6F15CF4CDB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D71F941-C52F-4C28-84F3-6F15CF4CDB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D71F941-C52F-4C28-84F3-6F15CF4CDB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D71F941-C52F-4C28-84F3-6F15CF4CDB16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
